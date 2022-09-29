@@ -30,7 +30,7 @@ Credits: [OndrasTutorials-YT](https://github.com/OndrasTutorials-YT)
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/EXCET">
+<a href="https://github.com/OndrasTutorials-YT">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OndrasTutorials-YT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OndrasTutorials-YT&layout=compact&langs_count=8&theme=algolia"/>
 </a>
