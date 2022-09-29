@@ -1,6 +1,6 @@
 [![Hits](http://hits.dwyl.com/EXCET/EXCET.svg)](http://hits.dwyl.com/EXCET/EXCET)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>EXCET</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>OndrasTutorials-YT</h2>
 
 👋 Hello im Bored
 
@@ -19,19 +19,19 @@
 
 
 <p align="center">
-<a href="https://discord.gg/9stwdsjtRV">Discord
-<a href="https://www.instagram.com/j1mmy9121/">Instagram
+<a href="https://discord.gg/mbnkX22BKF">Discord
+<a href="https://www.instagram.com/o.n.d.r.a_s/">Instagram
 
 </p>
 
 -----
-Credits: [EXCET](https://github.com/EXCET)
+Credits: [OndrasTutorials-YT](https://github.com/OndrasTutorials-YT)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/EXCET">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EXCET&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EXCET&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OndrasTutorials-YT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OndrasTutorials-YT&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
